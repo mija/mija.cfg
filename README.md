@@ -1,0 +1,2 @@
+# mija.cfg
+deadlock cfg
